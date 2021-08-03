@@ -1,5 +1,5 @@
 defmodule Exercise00 do
   def run() do
-    IO.puts("hello")
+    IO.puts("Hello World!")
   end
 end
