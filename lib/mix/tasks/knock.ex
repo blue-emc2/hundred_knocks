@@ -1,3 +1,6 @@
+# usage
+# mix knock 04
+
 defmodule Mix.Tasks.Knock do
   use Mix.Task
 
